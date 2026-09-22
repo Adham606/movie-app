@@ -7,7 +7,7 @@
 }
 
 @font-face {
-    font-family: "sora";
+    font-family: "Sora";
     src: url("../assets/fonts/Sora/Sora-VariableFont_wght.ttf") format("truetype");
     font-weight: 200 800;
     font-style: normal;
@@ -15,5 +15,13 @@
 }
 
 :root {
+    /* font */
+    --font-sora: "Sora", sans-serif;
+    --font-manrope: "Manrope", sans-serif;
+    /* colors */
+    --gold-txt: ;
+    --gold-bg: ;
+    /* border */
+    --border-rs-c: 20px;
     
 }
