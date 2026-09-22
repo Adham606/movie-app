@@ -1,0 +1,402 @@
+[
+    {
+        "tmdbId": 581528,
+        "title": "The Gangster, The Cop, The Devil",
+        "year": 2019,
+        "genre": ["Action", "Crime", "Drama"],
+        "duration": 108,
+        "description": "A crime boss teams up with a cop to track down a serial killer."
+    },
+    {
+        "tmdbId": 118,
+        "title": "Charlie and the Chocolate Factory",
+        "year": 2005,
+        "genre": ["Adventure", "Comedy", "Family"],
+        "duration": 121,
+        "description": "Willy Wonka, the eccentric owner of the world's largest chocolate factory, invites five children to visit his mysterious factory."
+    },
+    {
+        "tmdbId": 38321,
+        "title": "Priest",
+        "year": 2011,
+        "genre": ["Action", "Fantasy", "Horror"],
+        "duration": 87,
+        "description": "In a world ravaged by centuries of war between humans and vampires"
+    },
+    {
+        "tmdbId": 671,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "year": 2001,
+        "genre": ["Adventure", "Family", "Fantasy"],
+        "duration": 152,
+        "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world."
+    },
+    {
+        "tmdbId": 672,
+        "title": "Harry Potter and the Chamber of Secrets",
+        "year": 2002,
+        "genre": ["Adventure", "Family", "Fantasy"],
+        "duration": 161,
+        "description": "An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed."
+    },
+    {
+        "tmdbId": 120,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "genre": ["Adventure", "Fantasy", "Action"],
+        "duration": 179,
+        "description": "A young hobbit named Frodo Baggins inherits a mysterious ring and sets out on a dangerous journey to prevent it from falling into the hands of its evil creator."
+    },
+    {
+        "tmdbId": 862,
+        "title": "Toy Story",
+        "year": 1995,
+        "genre": ["Animation", "Adventure", "Family", "Comedy"],
+        "duration": 81,
+        "description": "Woody, a cowboy doll, struggles with the arrival of Buzz Lightyear, a new toy who threatens his place as Andy's favorite."
+    },
+    {
+        "tmdbId": 863,
+        "title": "Toy Story 2",
+        "year": 1999,
+        "genre": ["Animation", "Adventure", "Family", "Comedy"],
+        "duration": 92,
+        "description": "When Woody is kidnapped by a toy collector, Buzz and the other toys set out on a daring mission to rescue him."
+    },
+    {
+        "tmdbId": 9806,
+        "title": "The Incredibles",
+        "year": 2004,
+        "genre": ["Action", "Adventure", "Animation", "Family"],
+        "duration": 115,
+        "description": "A family of undercover superheroes is forced to return to action when a mysterious mission threatens their peaceful suburban life."
+    },
+    {
+        "tmdbId": 329,
+        "title": "Jurassic Park",
+        "year": 1993,
+        "genre": ["Adventure", "Science Fiction"],
+        "duration": 127,
+        "description": "A group of visitors discovers that a dinosaur theme park has become a deadly nightmare after the cloned creatures escape their enclosures."
+    },
+    {
+        "tmdbId": 277,
+        "title": "Underworld",
+        "year": 2003,
+        "genre": ["Fantasy", "Action", "Thriller"],
+        "duration": 115,
+        "description": "A vampire warrior named Selene discovers a hidden war between vampires and werewolves and becomes caught in a conflict that could change the balance between the two species."
+    },
+    {
+        "tmdbId": 10555,
+        "title": "Shark Tale",
+        "year": 2004,
+        "genre": ["Animation", "Action", "Comedy", "Family"],
+        "duration": 90,
+        "description": "A small fish named Oscar becomes an unlikely hero after a lie makes him famous, while he forms an unexpected friendship with a vegetarian shark named Lenny."
+    },
+    {
+        "tmdbId": 14787,
+        "title": "Tom and Jerry: The Magic Ring",
+        "year": 2002,
+        "genre": ["Animation", "Comedy", "Family", "Fantasy"],
+        "duration": 62,
+        "description": "Tom is left in charge of a magical ring by his young wizard master, but when the ring gets stuck on Jerry's head, the chase takes them through the city."
+    },
+    {
+        "tmdbId": 269149,
+        "title": "Zootopia",
+        "year": 2016,
+        "genre": ["Animation", "Adventure", "Family", "Comedy"],
+        "duration": 109,
+        "description": "A determined rabbit police officer teams up with a clever fox to solve a mysterious case in the animal metropolis of Zootopia."
+    },
+    {
+        "tmdbId": 10674,
+        "title": "Mulan",
+        "year": 1998,
+        "genre": ["Animation", "Family", "Adventure"],
+        "duration": 88,
+        "description": "To save her aging father from serving in the army, a young woman disguises herself as a man and takes his place in the Chinese army."
+    },
+    {
+        "tmdbId": 1593,
+        "title": "Night at the Museum",
+        "year": 2006,
+        "genre": ["Action", "Adventure", "Comedy", "Family", "Fantasy"],
+        "duration": 108,
+        "description": "A newly hired night guard at a natural history museum discovers that an ancient artifact brings the exhibits to life after dark."
+    },
+    {
+        "tmdbId": 37135,
+        "title": "Tarzan",
+        "year": 1999,
+        "genre": ["Animation", "Adventure", "Drama", "Family"],
+        "duration": 88,
+        "description": "Raised by gorillas after being orphaned as a baby, Tarzan discovers his human origins when a group of explorers arrives in the jungle."
+    },
+    {
+        "tmdbId": 920,
+        "title": "Cars",
+        "year": 2006,
+        "genre": ["Animation", "Adventure", "Comedy", "Family"],
+        "duration": 117,
+        "description": "A rookie race car gets stranded in a forgotten town along Route 66 and learns important lessons about friendship, humility, and life beyond racing."
+    },
+    {
+        "tmdbId": 8587,
+        "title": "The Lion King",
+        "year": 1994,
+        "genre": ["Family", "Animation", "Drama"],
+        "duration": 89,
+        "description": "A young lion prince named Simba is forced to leave his homeland after a tragedy and must eventually confront his past and reclaim his place as king."
+    },
+    {
+        "tmdbId": 12,
+        "title": "Finding Nemo",
+        "year": 2003,
+        "genre": ["Animation", "Family"],
+        "duration": 100,
+        "description": "After his young son Nemo is captured and taken to a dentist's aquarium, an anxious clownfish named Marlin crosses the ocean with Dory to find him."
+    },
+    {
+        "tmdbId": 155,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "genre": ["Drama", "Action", "Crime", "Thriller"],
+        "duration": 152,
+        "description": "Batman faces a criminal mastermind known as the Joker, who seeks to plunge Gotham City into chaos."
+    },
+    {
+        "tmdbId": 157336,
+        "title": "Interstellar",
+        "year": 2014,
+        "genre": ["Adventure", "Drama", "Science Fiction"],
+        "duration": 169,
+        "description": "A group of explorers travels through a wormhole in search of a new home for humanity."
+    },
+    {
+        "tmdbId": 27205,
+        "title": "Inception",
+        "year": 2010,
+        "genre": ["Action", "Science Fiction", "Adventure"],
+        "duration": 148,
+        "description": "A skilled thief who enters people's dreams is given a chance to erase his past by planting an idea in someone's mind."
+    },
+    {
+        "tmdbId": 603,
+        "title": "The Matrix",
+        "year": 1999,
+        "genre": ["Action", "Science Fiction"],
+        "duration": 136,
+        "description": "A computer hacker discovers that the world he knows is an elaborate simulation controlled by machines."
+    },
+    {
+        "tmdbId": 98,
+        "title": "Gladiator",
+        "year": 2000,
+        "genre": ["Action", "Drama", "Adventure"],
+        "duration": 155,
+        "description": "A betrayed Roman general is forced into slavery and becomes a gladiator seeking revenge against the man who destroyed his life."
+    },
+    {
+        "tmdbId": 245891,
+        "title": "John Wick",
+        "year": 2014,
+        "genre": ["Action", "Thriller"],
+        "duration": 101,
+        "description": "A retired hitman returns to his violent past after criminals take away the last things that connected him to his late wife."
+    },
+    {
+        "tmdbId": 76341,
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "genre": ["Action", "Adventure", "Science Fiction"],
+        "duration": 120,
+        "description": "In a devastated wasteland, Max joins Furiosa and a group of rebels fleeing a tyrannical warlord."
+    },
+    {
+        "tmdbId": 278,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "genre": ["Drama", "Crime"],
+        "duration": 142,
+        "description": "A banker sentenced to life in prison forms an unlikely friendship while holding on to hope and planning for freedom."
+    },
+    {
+        "tmdbId": 497,
+        "title": "The Green Mile",
+        "year": 1999,
+        "genre": ["Fantasy", "Drama", "Crime"],
+        "duration": 189,
+        "description": "A prison guard encounters a mysterious inmate with extraordinary abilities on death row."
+    },
+    {
+        "tmdbId": 244786,
+        "title": "Whiplash",
+        "year": 2014,
+        "genre": ["Drama", "Music"],
+        "duration": 107,
+        "description": "An ambitious young jazz drummer faces an intense and demanding music instructor who pushes him beyond his limits."
+    },
+    {
+        "tmdbId": 1124,
+        "title": "The Prestige",
+        "year": 2006,
+        "genre": ["Drama", "Mystery", "Science Fiction"],
+        "duration": 130,
+        "description": "Two rival magicians become obsessed with surpassing each other, leading them into a dangerous battle of deception and sacrifice."
+    },
+    {
+        "tmdbId": 769,
+        "title": "GoodFellas",
+        "year": 1990,
+        "genre": ["Drama", "Crime"],
+        "duration": 145,
+        "description": "A young man rises through the ranks of a New York crime family and experiences the glamour and violence of the mafia."
+    },
+    {
+        "tmdbId": 238,
+        "title": "The Godfather",
+        "year": 1972,
+        "genre": ["Drama", "Crime"],
+        "duration": 175,
+        "description": "The aging patriarch of a powerful crime family transfers control of his empire to his reluctant son."
+    },
+    {
+        "tmdbId": 105,
+        "title": "Back to the Future",
+        "year": 1985,
+        "genre": ["Adventure", "Comedy", "Science Fiction"],
+        "duration": 116,
+        "description": "A teenager accidentally travels thirty years into the past and must make sure his parents fall in love so he can return to his own time."
+    },
+    {
+        "tmdbId": 280,
+        "title": "Terminator 2: Judgment Day",
+        "year": 1991,
+        "genre": ["Action", "Thriller", "Science Fiction"],
+        "duration": 137,
+        "description": "A reprogrammed Terminator is sent back in time to protect the young John Connor from a more advanced killing machine."
+    },
+    {
+        "tmdbId": 22,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": 2003,
+        "genre": ["Adventure", "Fantasy", "Action"],
+        "duration": 143,
+        "description": "A pirate captain and a young blacksmith team up to rescue a kidnapped woman and break an ancient curse."
+    },
+    {
+        "tmdbId": 138843,
+        "title": "The Conjuring",
+        "year": 2013,
+        "genre": ["Horror", "Thriller"],
+        "duration": 112,
+        "description": "Paranormal investigators help a family terrorized by a dark supernatural presence in their farmhouse."
+    },
+    {
+        "tmdbId": 694,
+        "title": "The Shining",
+        "year": 1980,
+        "genre": ["Horror", "Thriller"],
+        "duration": 146,
+        "description": "A family staying alone in an isolated hotel during winter encounters supernatural forces that push the father toward madness."
+    },
+    {
+        "tmdbId": 348,
+        "title": "Alien",
+        "year": 1979,
+        "genre": ["Horror", "Science Fiction"],
+        "duration": 117,
+        "description": "The crew of a commercial spaceship encounters a deadly alien creature after answering a mysterious distress signal."
+    },
+    {
+        "tmdbId": 324857,
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": 2018,
+        "genre": ["Animation", "Action", "Adventure", "Science Fiction"],
+        "duration": 117,
+        "description": "Miles Morales becomes Spider-Man and encounters other Spider-People from different dimensions."
+    },
+    {
+        "tmdbId": 2062,
+        "title": "Ratatouille",
+        "year": 2007,
+        "genre": ["Animation", "Comedy", "Family", "Fantasy"],
+        "duration": 111,
+        "description": "A talented rat who dreams of becoming a chef forms an unusual partnership with a young kitchen worker in Paris."
+    },
+    {
+        "tmdbId": 10681,
+        "title": "WALL-E",
+        "year": 2008,
+        "genre": ["Animation", "Family", "Science Fiction"],
+        "duration": 98,
+        "description": "A lonely waste-collecting robot discovers a new purpose when he encounters a sophisticated robot sent to Earth."
+    },
+    {
+        "tmdbId": 37165,
+        "title": "The Truman Show",
+        "year": 1998,
+        "genre": ["Comedy", "Drama"],
+        "duration": 103,
+        "description": "A man slowly discovers that his entire life is actually a television show watched by millions of people."
+    },
+    {
+        "tmdbId": 137,
+        "title": "Groundhog Day",
+        "year": 1993,
+        "genre": ["Comedy", "Fantasy", "Romance"],
+        "duration": 101,
+        "description": "A cynical television weatherman finds himself reliving the same day over and over again."
+    },
+    {
+        "tmdbId": 120467,
+        "title": "The Grand Budapest Hotel",
+        "year": 2014,
+        "genre": ["Comedy", "Drama"],
+        "duration": 100,
+        "description": "A legendary hotel concierge and his young protégé become involved in a mysterious inheritance and the theft of a priceless painting."
+    },
+    {
+        "tmdbId": 949,
+        "title": "Heat",
+        "year": 1995,
+        "genre": ["Action", "Crime", "Drama", "Thriller"],
+        "duration": 170,
+        "description": "A professional thief and a dedicated detective find themselves locked in an escalating battle across Los Angeles."
+    },
+    {
+        "tmdbId": 1422,
+        "title": "The Departed",
+        "year": 2006,
+        "genre": ["Drama", "Thriller", "Crime"],
+        "duration": 151,
+        "description": "An undercover cop infiltrates a criminal organization while a mole secretly works inside the police department."
+    },
+    {
+        "tmdbId": 146233,
+        "title": "Prisoners",
+        "year": 2013,
+        "genre": ["Drama", "Thriller", "Crime"],
+        "duration": 153,
+        "description": "When two young girls disappear, one desperate father takes matters into his own hands while a detective investigates the case."
+    },
+    {
+        "tmdbId": 197,
+        "title": "Sicario",
+        "year": 2015,
+        "genre": ["Action", "Crime", "Thriller"],
+        "duration": 121,
+        "description": "An idealistic FBI agent joins a secret task force targeting a powerful drug cartel on the border between the United States and Mexico."
+    },
+    {
+        "tmdbId": 6977,
+        "title": "No Country for Old Men",
+        "year": 2007,
+        "genre": ["Crime", "Drama", "Thriller"],
+        "duration": 122,
+        "description": "A hunter discovers a fortune from a drug deal gone wrong and becomes the target of a relentless killer."
+    }
+]
