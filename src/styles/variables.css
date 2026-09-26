@@ -19,9 +19,11 @@
     --font-sora: "Sora", sans-serif;
     --font-manrope: "Manrope", sans-serif;
     /* colors */
-    --gold-txt: ;
-    --gold-bg: ;
+    --gold: #F2B95A;
     /* border */
     --border-rs-c: 20px;
-    
+}
+
+html[data-theme="dark"] {
+    --gold: #F2B95A;
 }
