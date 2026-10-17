@@ -1,0 +1,72 @@
+.header {
+    background-color: var(--background-color-light);
+    position: fixed;
+    width: 100%;
+}
+
+.header .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header .nav {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    display: none; /* for a while */
+}
+
+.header ul li{
+    display: inline-block; 
+}
+
+.header ul {
+    display: flex;
+    gap: 50px;
+}
+
+.header .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.header .logo svg {
+    width: 40px;
+    height: 40px;
+    padding: 8px;
+    border-radius: 50%;
+    background-color: var(--gold);
+}
+
+.header .logo .logo-hword,
+.logo-goldword {
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.header .logo .logo-goldword {
+    text-transform: capitalize;
+    color: var(--gold)
+}
+
+.header .action {
+    display: flex;
+    align-items: center;
+}
+
+.header .search-bar {
+    display: flex;
+    align-items: center;
+}
+
+.header .buttons {
+    display: flex;
+    align-items: center;
+}
+
+body {
+    height: 3000px;
+}
