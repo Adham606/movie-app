@@ -11,7 +11,7 @@
 }
 
 .header .nav {
-    display: flex;
+    /* display: flex; */
     align-items: center;
     gap: 50px;
     display: none; /* for a while */
@@ -42,7 +42,7 @@
 }
 
 .header .logo .logo-hword,
-.logo-goldword {
+.header .logo .logo-goldword {
     text-transform: capitalize;
     font-weight: 700;
 }
@@ -57,14 +57,29 @@
     align-items: center;
 }
 
-.header .search-bar {
+.header .buttons {
     display: flex;
     align-items: center;
 }
 
-.header .buttons {
+.header form div{
+    background-color: white;
     display: flex;
+    border: 1px solid red;
+    border-radius: var(--border-rs-c);
+    justify-content: center;
     align-items: center;
+    height: 35px;
+}
+
+.header form input {
+    border: 1px solid blue;
+}
+
+.header form .srch {
+    color: gray;
+    width: 20px;
+    height: 20px;
 }
 
 body {
