@@ -2,6 +2,8 @@
     background-color: var(--background-color-light);
     position: fixed;
     width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .header .container {
@@ -62,24 +64,43 @@
     align-items: center;
 }
 
-.header form div{
+.header form{
     background-color: white;
     display: flex;
-    border: 1px solid red;
+    border: 1px solid #d0c0c0;
     border-radius: var(--border-rs-c);
-    justify-content: center;
     align-items: center;
     height: 35px;
+    width: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
+    gap: 10px;
 }
 
 .header form input {
-    border: 1px solid blue;
+    border: none;
+    outline: none;
+    width: 355px;
+    height: 30px;
+    font-size: 15px;
+}
+
+/* .header form:focus-within{
+    border-color: var(--gold);
+} */
+
+.header form input::placeholder {
+    color: gray;
 }
 
 .header form .srch {
     color: gray;
-    width: 20px;
-    height: 20px;
+    width: 18px;
+    height: 18px;
+}
+
+.form.active {
+    border-color: #f2b95a;
 }
 
 body {
